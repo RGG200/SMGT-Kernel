@@ -1,4 +1,5 @@
 # SMGT-Kernel
 The SMGT Kernel for datapacks is a tool that recreates some of Super Mario Galaxy's Features in Minecraft.
 
+This Project is free to download but is not for commercial purposes SO DO NOT MAKE SOMETHING PAID WITH IT!!!
 It is not yet open-source...
